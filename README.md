@@ -1,1 +1,1 @@
-# devops-trainning
+# Dockerfiles & docker compose files
